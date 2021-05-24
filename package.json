@@ -1,0 +1,16 @@
+{
+    "name": "lex",
+    "description": "Generate New Testament Greek English Lexicon",
+    "version": "0.1.0",
+    "license": "GPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ivandustin/lex"
+    },
+    "dependencies": {
+        "collatia": "^0.1.7"
+    },
+    "bin": {
+        "lex": "index.js"
+    }
+}
